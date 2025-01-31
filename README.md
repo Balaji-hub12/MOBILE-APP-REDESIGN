@@ -16,3 +16,7 @@ DESCRIPTION OF TASK PERFORMED:
 
 
 I have redesigned a movie ticket booking app called CineHub similar to BookMyShow using the Figma tool
+
+***OUTPUT***
+
+<img width="539" alt="Image" src="https://github.com/user-attachments/assets/0d9af339-885f-45e5-86f5-b0b02341fcb7" />
