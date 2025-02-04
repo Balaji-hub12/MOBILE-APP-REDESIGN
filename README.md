@@ -77,3 +77,6 @@ This UI/UX redesign enhances the movie-ticketing experience by making it more in
 ***OUTPUT***
 
 <img width="539" alt="Image" src="https://github.com/user-attachments/assets/0d9af339-885f-45e5-86f5-b0b02341fcb7" />
+
+
+https://github.com/user-attachments/assets/04344677-0f42-4522-865a-a07c14162468
